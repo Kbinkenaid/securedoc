@@ -1,0 +1,9 @@
+# Railway ignore file - exclude development files
+dev-storage/
+hardhat-contracts/
+scripts/deploy-contract.js
+hardhat.config.js
+.env.example
+.env.production
+README.md
+API_DOCUMENTATION.md
